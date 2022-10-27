@@ -21,6 +21,7 @@ public class Ex5_Tabuada {
         int tabuada = scan.nextInt();
 
         System.out.println("Tabuada de " + tabuada);
+
         for(int i = 1; i <= 10; i++) {
             System.out.println(tabuada + " X " + i + " = " + (tabuada*i)); //valor escolhido da tabuada + X (sinal de multiplicar) + i(fator multiplicador) + o = (igual) + tabuada x(multiplicado pelo) i (fator multiplicador)
         }

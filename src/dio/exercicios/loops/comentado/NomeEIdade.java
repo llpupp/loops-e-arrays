@@ -25,7 +25,7 @@ public class NomeEIdade {
             }
 
             System.out.println("Idade: "); //Peça a idade
-            idade = scan.nextInt(); //armazene a idade na variável
+            idade = scan.nextInt();   //armazene a idade na variável
 
             //imprima o nome e a idade
             System.out.println("Nome: " + nome + " - idade: " + idade);

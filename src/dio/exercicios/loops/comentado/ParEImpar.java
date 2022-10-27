@@ -30,6 +30,7 @@ public class ParEImpar {
 
             count++; //some o valor 1 ao contador até que invalide a condição do loop. (count < quantidadeDeNumeros)
         } while (count < quantidadeDeNumeros);
+
         // Faça o loop caso o valor do contador seja menor que a quantidade de números
 
         //imprimindo a quantidade de números pares digtados e números ímpares digitados

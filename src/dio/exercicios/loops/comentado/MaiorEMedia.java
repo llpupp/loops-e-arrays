@@ -29,7 +29,7 @@ public class MaiorEMedia {
             soma = soma + numero; //some o número informado pelo usuário com variável soma (independente do valor)
 
             count = count + 1; //some o valor 1 ao contador, até que invalide a condição do loop. (count < 5)
-        } while (count < 5); //enquanto o contador tiver o valor menor que 5
+        }while (count < 5); //enquanto o contador tiver o valor menor que 5
 
         media = soma / 5; //faça o cálculo da média. (soma/quantidade)
 

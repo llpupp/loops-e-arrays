@@ -24,6 +24,7 @@ public class Tabuada {
 
         //para: variável i = 0, até i menor ou igual a 10, adicionando 1 ao valor de i a cada loop.
         for (int i = 0; i <= 10; i = i + 1) {
+
             //número escolhido pelo usuário "X" o valor de i "=" a multiplicação do número com o i.
             System.out.println(numero + " X " + i + " = " + (numero * i));
         }
