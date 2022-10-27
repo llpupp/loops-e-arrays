@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="first commit loops">
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Ex4_ParEImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Ex5_Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Ex6_Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/comentado/Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/comentado/MaiorEMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/comentado/NomeEIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/comentado/Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/comentado/ParEImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/comentado/Tabuada.java" afterDir="false" />
+    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../Controle-Fluxo" beforeDir="false" afterPath="$PROJECT_DIR$/../Controle-Fluxo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresLogicos" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresLogicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresRelacionais" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresRelacionais" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dio/exercicios/loops/Ex3_MaiorEMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Ex3_MaiorEMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Ex6_Fatorial">
+}</component>
+  <component name="RunManager" selected="Application.Ex4_ParEImpar">
     <configuration name="Ex4_ParEImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Ex4_ParEImpar" />
       <module name="loops-e-arrays" />
