@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="Nota">
+    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="Fatorial">
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Controle-Fluxo" beforeDir="false" afterPath="$PROJECT_DIR$/../Controle-Fluxo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresLogicos" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresLogicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresRelacionais" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresRelacionais" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dio/exercicios/loops/Ex3_MaiorEMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Ex3_MaiorEMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +201,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666960481031</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="MaiorEMedia">
+      <created>1666960561832</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666960561832</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ParEImpar">
+      <created>1666960610233</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666960610233</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Taboada">
+      <created>1666960668593</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666960668593</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fatorial">
+      <created>1666960702463</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666960702463</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,7 +253,11 @@
     <MESSAGE value="Consoantes" />
     <MESSAGE value="NomeEIdade" />
     <MESSAGE value="Nota" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nota" />
+    <MESSAGE value="MaiorEMedia" />
+    <MESSAGE value="ParEImpar" />
+    <MESSAGE value="Taboada" />
+    <MESSAGE value="Fatorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fatorial" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/loops_e_arrays$Ex4_ParEImpar.ic" NAME="Ex4_ParEImpar Coverage Results" MODIFIED="1666894022954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
