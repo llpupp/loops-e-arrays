@@ -22,7 +22,6 @@ public class Ex6_Fatorial {
         for(int i = fatorial ; i >= 1 ; i--) {
             multiplicacao = multiplicacao * i;
         }
-
         System.out.println(multiplicacao);
     }
 }
