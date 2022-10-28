@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="ArrayMultidimensional">
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/comentado/Consoantes.java" afterDir="false" />
+    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="Consoantes">
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/comentado/NumerosAleatorios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Controle-Fluxo" beforeDir="false" afterPath="$PROJECT_DIR$/../Controle-Fluxo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresLogicos" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresLogicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresRelacionais" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresRelacionais" afterDir="false" />
@@ -250,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666963315098</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Consoantes">
+      <created>1666963545901</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666963545901</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +278,6 @@
     <MESSAGE value="loops" />
     <MESSAGE value="loops &amp; arrays" />
     <MESSAGE value="vetor OrdemInversa" />
-    <MESSAGE value="Consoantes" />
     <MESSAGE value="NomeEIdade" />
     <MESSAGE value="Nota" />
     <MESSAGE value="MaiorEMedia" />
@@ -280,7 +286,8 @@
     <MESSAGE value="Fatorial" />
     <MESSAGE value="NumerosAleatorios&amp;Sucessores" />
     <MESSAGE value="ArrayMultidimensional" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayMultidimensional" />
+    <MESSAGE value="Consoantes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Consoantes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/loops_e_arrays$Ex4_ParEImpar.ic" NAME="Ex4_ParEImpar Coverage Results" MODIFIED="1666894022954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
