@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="Consoantes">
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/comentado/NumerosAleatorios.java" afterDir="false" />
+    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="NumerosAleatorios">
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/comentado/OrdemInversa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Controle-Fluxo" beforeDir="false" afterPath="$PROJECT_DIR$/../Controle-Fluxo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresLogicos" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresLogicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresRelacionais" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresRelacionais" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex4_ArrayMultidimensional">
+  <component name="RunManager" selected="Application.Ex1_OrdemInversa">
     <configuration name="Ex1_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Ex1_NomeEIdade" />
       <module name="loops-e-arrays" />
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1_OrdemInversa" />
         <item itemvalue="Application.Ex4_ArrayMultidimensional" />
         <item itemvalue="Application.Ex3_NumerosAleatorios" />
         <item itemvalue="Application.Ex1_NomeEIdade" />
         <item itemvalue="Application.Ex2_Consoantes" />
-        <item itemvalue="Application.Ex1_OrdemInversa" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666963545901</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="NumerosAleatorios">
+      <created>1666963645623</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666963645623</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +295,8 @@
     <MESSAGE value="NumerosAleatorios&amp;Sucessores" />
     <MESSAGE value="ArrayMultidimensional" />
     <MESSAGE value="Consoantes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Consoantes" />
+    <MESSAGE value="NumerosAleatorios" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumerosAleatorios" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/loops_e_arrays$Ex4_ParEImpar.ic" NAME="Ex4_ParEImpar Coverage Results" MODIFIED="1666894022954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
