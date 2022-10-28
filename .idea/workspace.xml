@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="loops &amp; arrays">
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex1_OrdemInversa.java" afterDir="false" />
+    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="vetor OrdemInversa">
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex2_Consoantes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Controle-Fluxo" beforeDir="false" afterPath="$PROJECT_DIR$/../Controle-Fluxo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresLogicos" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresLogicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresRelacionais" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresRelacionais" afterDir="false" />
@@ -46,9 +46,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex1_OrdemInversa">
+  <component name="RunManager" selected="Application.Ex2_Consoantes">
     <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.exercicios.arrays.Ex1_OrdemInversa" />
+      <module name="loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dio.exercicios.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.arrays.Ex2_Consoantes" />
       <module name="loops-e-arrays" />
       <extension name="coverage">
         <pattern>
@@ -101,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex2_Consoantes" />
         <item itemvalue="Application.Ex1_OrdemInversa" />
         <item itemvalue="Application.Ex6_Fatorial" />
         <item itemvalue="Application.Ex5_Tabuada" />
@@ -159,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666902541476</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="vetor OrdemInversa">
+      <created>1666957142647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666957142647</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +201,8 @@
     <MESSAGE value="Nota" />
     <MESSAGE value="loops" />
     <MESSAGE value="loops &amp; arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="loops &amp; arrays" />
+    <MESSAGE value="vetor OrdemInversa" />
+    <option name="LAST_COMMIT_MESSAGE" value="vetor OrdemInversa" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/loops_e_arrays$Ex4_ParEImpar.ic" NAME="Ex4_ParEImpar Coverage Results" MODIFIED="1666894022954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
