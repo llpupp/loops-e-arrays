@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="Fatorial">
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
+    <list default="true" id="df5e54ff-8ff4-4e99-95fb-a73d70256fce" name="Changes" comment="NumerosAleatorios&amp;Sucessores">
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Controle-Fluxo" beforeDir="false" afterPath="$PROJECT_DIR$/../Controle-Fluxo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresLogicos" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresLogicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperadoresRelacionais" beforeDir="false" afterPath="$PROJECT_DIR$/../OperadoresRelacionais" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex1_NomeEIdade">
+  <component name="RunManager" selected="Application.Ex4_ArrayMultidimensional">
     <configuration name="Ex1_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Ex1_NomeEIdade" />
       <module name="loops-e-arrays" />
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Ex5_Tabuada" />
+    <configuration name="Ex3_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.arrays.Ex3_NumerosAleatorios" />
       <module name="loops-e-arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.exercicios.loops.*" />
+          <option name="PATTERN" value="dio.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Ex6_Fatorial" />
+    <configuration name="Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.arrays.Ex4_ArrayMultidimensional" />
       <module name="loops-e-arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.exercicios.loops.*" />
+          <option name="PATTERN" value="dio.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex4_ArrayMultidimensional" />
+        <item itemvalue="Application.Ex3_NumerosAleatorios" />
         <item itemvalue="Application.Ex1_NomeEIdade" />
         <item itemvalue="Application.Ex2_Consoantes" />
         <item itemvalue="Application.Ex1_OrdemInversa" />
-        <item itemvalue="Application.Ex6_Fatorial" />
-        <item itemvalue="Application.Ex5_Tabuada" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666960702463</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="NumerosAleatorios&amp;Sucessores">
+      <created>1666961664173</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666961664173</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +265,8 @@
     <MESSAGE value="ParEImpar" />
     <MESSAGE value="Taboada" />
     <MESSAGE value="Fatorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fatorial" />
+    <MESSAGE value="NumerosAleatorios&amp;Sucessores" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumerosAleatorios&amp;Sucessores" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/loops_e_arrays$Ex4_ParEImpar.ic" NAME="Ex4_ParEImpar Coverage Results" MODIFIED="1666894022954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
