@@ -8,7 +8,7 @@ public class Ex1_OrdemInversa {
 
         int[] vetor = {-5, -6, 15, 50, 8, 4};
 
-        //System.out.println(vetor.length);
+        //System.out.println(vetor.length); imprime o tamanho do vetor
 
         System.out.print("Vetor: ");
         int count =0;

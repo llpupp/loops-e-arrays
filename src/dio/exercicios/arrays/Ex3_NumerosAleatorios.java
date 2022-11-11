@@ -32,5 +32,4 @@ public class Ex3_NumerosAleatorios {
             System.out.print((numero+1) + " ");
         }
     }
-
 }
